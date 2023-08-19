@@ -3,7 +3,7 @@
 
 
 
-- 🤝 I’m looking for help with **Full-Stack Web Development**
+- 🤝 I’m looking for help with **Machine Learning Algorithms**
 
 - 👨‍💻 All of my projects are available [@dhafer-H-S]((https://github.com/dhafer-H-S))
 
@@ -16,7 +16,7 @@
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://media3.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif?cid=ecf05e478xml53z9q4gmpejkgoh15embz3mm0fwtlb3dejo5&rid=giphy.gif&ct=g"/>
+  <img style="width:26rem; height:auto" src="https://giphy.com/embed/IcZhFmufozDCij3p22" width="480" height="415" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cpu-circuit-board-circuitboard-IcZhFmufozDCij3p22"/>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
