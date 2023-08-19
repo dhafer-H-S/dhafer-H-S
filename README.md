@@ -53,16 +53,13 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/jassemb/" target="_blank">
+  <a href="https://github.com/dhafer-H-S/" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center"> 
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
-  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
@@ -70,23 +67,10 @@
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
       alt="virtualbox"/>
   </a>
-  <a href="https://android.com" target="_blank">
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"
-       alt="Android Studio">
-  </a>
 <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
 </p>
 
-<h3 align="center">Blog</h3>
-
-<div style="margin-top:10px" align="center">
-  <div>
-    <a href="https://benalijassem201.medium.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="FaceBook"/>
-    </a>
-  </div>
-</div>
 
 ---
 
