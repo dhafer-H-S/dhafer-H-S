@@ -14,9 +14,9 @@
 
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
-
-<img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="center" width="480" height="415" class="giphy-embed" allowFullScreen />
-
+<div align="center">
+<img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif"  width="480" height="415" class="giphy-embed" allowFullScreen />
+</div>
 <h3 align="center">Languages and Tools:</h3>
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
