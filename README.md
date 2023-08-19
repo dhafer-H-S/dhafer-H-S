@@ -15,7 +15,7 @@
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
-<img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="center" width="480" height="415" frameBorder="0" class="giphy-embed" allowFullScreen />
+<img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="center" width="480" height="415" class="giphy-embed" allowFullScreen />
 
 <h3 align="center">Languages and Tools:</h3>
   <div align="center">
