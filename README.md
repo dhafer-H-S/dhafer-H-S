@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Dhafer hamza sfaxi and I'm a Machine Learning Software Engineer from tunisia </h2>
+<h2 align="left">Hi 👋! My name is Dhafer hamza sfaxi and I'm a student in Machine Learning and Software Engineering from tunisia </h2>
 
 
 
