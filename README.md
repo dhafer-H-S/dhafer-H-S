@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dhafer Hamza Sfaxi and I'm a Software Engineer, Machine Learning Enthusiast, <br/> and Entrepreneur from Tunisia</h2>
+<h2 align="left">Hi 👋! My name is Dhafer Hamza Sfaxi <br/> I'm a Data and Machine Learning Engineer <br/> and Entrepreneur from Tunisia </h2>
 
 ---
 
