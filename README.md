@@ -12,7 +12,9 @@
 
 <h2 align="center"><u><b>🚀 About Me</b></u></h2>
 <div align="center">
-  <img src="BADFI-Tech.png" alt="badfi tech - Dhafer Hamza Sfaxi - Founder and CTO" style="border-radius: 10px; max-width: 100%;" />
+  <a href="https://www.badfi.tech" target="_blank">
+    <img src="BADFI-Tech.png" alt="BADFI Tech - Dhafer Hamza Sfaxi - Founder and CTO" style="border-radius: 10px; max-width: 100%;" />
+  </a>
 </div>
 
 👨‍💼 **Founder and CTO of BADFI Tech**  
@@ -43,8 +45,6 @@ As the visionary behind BADFI Tech, I lead a dedicated team passionate about bui
 6. **Education and Training**:  
    Through **BADFI Academy**, we empower individuals with real-world project experiences and comprehensive training, preparing them for successful careers in tech.
 
-At BADFI Tech, we believe in continuous learning and innovation to stay ahead in the fast-evolving tech landscape.  
-
 **Our Mission:**  
 To transform ideas into impactful solutions, fostering growth and innovation for our clients.
 
@@ -69,6 +69,15 @@ To transform ideas into impactful solutions, fostering growth and innovation for
 ---
 
 <h2 align="center"><u><b>🛠️ Knowledge Base</b></u></h2>
+
+<h3 align="center">Education:</h3>
+
+- Graduated from **Holberton School of Computer Science**, Tunis campus.
+- Studied at **Atlas University**, Istanbul, Turkey.
+
+Through my studies, I explored **Mathematics**, **Supervised and Unsupervised Learning**, **Reinforcement Learning**, **GANs**, and **Pipelines**, continuously building a strong foundation in AI and machine learning.
+
+---
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
@@ -103,3 +112,10 @@ To transform ideas into impactful solutions, fostering growth and innovation for
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
+
+---
+
+<h3 align="center">📢 Call to Action:</h3>
+<p align="center">
+If you have an idea or project, I’m ready to collaborate. Let’s turn your vision into reality!
+</p>
