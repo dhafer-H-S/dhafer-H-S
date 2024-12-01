@@ -12,7 +12,7 @@
 
 <h2 align="center"><u><b>🚀 About Me</b></u></h2>
 <div align="center">
-  <img src="[path/to/your/image.jpg](https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-6/465799914_122190351662190240_576610190393414278_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=bR0GAykyT7EQ7kNvgESTUZG&_nc_zt=23&_nc_ht=scontent-cdg4-3.xx&_nc_gid=ATTFuDEdQyCGnC6eEho-n4f&oh=00_AYBVvTEiSmENnnxMPvgSXBw6Vw9ddcvR-u2vempQVc2K_g&oe=6752D3B0)" alt="badfi tech - Dhafer Hamza Sfaxi - Founder and CTO" style="border-radius: 10px; max-width: 100%;" />
+  <img src="BADFI-Tech.png" alt="badfi tech - Dhafer Hamza Sfaxi - Founder and CTO" style="border-radius: 10px; max-width: 100%;" />
 </div>
 
 👨‍💼 **Founder and CTO of BADFI Tech**  
