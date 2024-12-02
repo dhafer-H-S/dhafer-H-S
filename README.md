@@ -55,7 +55,17 @@ To transform ideas into impactful solutions, fostering growth and innovation for
 ### Machine Learning
 - **Hyperparameter Tuning Framework**: Developed custom Gaussian Process models using RBF kernels.
 - **Regularization Techniques**: Explained and implemented L1, L2, Dropout, Data Augmentation, and Early Stopping.
-- **Optimization Techniques Blog**: Detailed posts covering Batch Normalization, Adam Optimizer, and Learning Rate Decay.
+- **Optimization Techniques **: Detailed posts covering Batch Normalization, Adam Optimizer, and Learning Rate Decay.
+- **Mathematics for Machine Learning**:  
+  Leveraged mathematical concepts such as linear algebra, calculus, and probability to solve complex problems in AI and build predictive models.
+- **Supervised and Unsupervised Learning**:  
+  Implemented algorithms like Linear Regression, Decision Trees, K-Means Clustering, and PCA for predictive analytics and pattern recognition.
+- **Reinforcement Learning**:  
+  Developed RL agents using algorithms such as Q-learning and Deep Q-Networks, focusing on real-world applications like robotics and game AI.
+- **Generative Adversarial Networks (GANs)**:  
+  Created GAN models to generate realistic data such as images, text, and audio, advancing my expertise in deep generative modeling.
+- **ML Pipelines**:  
+  Designed and deployed end-to-end machine learning pipelines for data preprocessing, feature extraction, model training, and deployment.
 
 ### Web Development
 - **BADFI Attendance Solution for Small Business**: A QR-code-based attendance platform with admin dashboards and detailed reports.
@@ -67,6 +77,8 @@ To transform ideas into impactful solutions, fostering growth and innovation for
 - Used GitHub Actions to ensure robust testing and deployment workflows.
 
 ---
+
+
 
 <h2 align="center"><u><b>🛠️ Knowledge Base</b></u></h2>
 
