@@ -55,7 +55,7 @@ To transform ideas into impactful solutions, fostering growth and innovation for
 ### Machine Learning
 - **Hyperparameter Tuning Framework**: Developed custom Gaussian Process models using RBF kernels.
 - **Regularization Techniques**: Explained and implemented L1, L2, Dropout, Data Augmentation, and Early Stopping.
-- **Optimization Techniques **: Detailed posts covering Batch Normalization, Adam Optimizer, and Learning Rate Decay.
+- **Optimization Techniques**: Detailed posts covering Batch Normalization, Adam Optimizer, and Learning Rate Decay.
 - **Mathematics for Machine Learning**:  
   Leveraged mathematical concepts such as linear algebra, calculus, and probability to solve complex problems in AI and build predictive models.
 - **Supervised and Unsupervised Learning**:  
